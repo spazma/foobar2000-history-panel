@@ -141,11 +141,7 @@ Projekt jest udostępniany na licencji **MIT**.
 - [foobar2000 Developer Wiki](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Scripting) – dokumentacja scripting'u
 
 ---
+<img width="1715" height="946" alt="4279foobar2000_rEYqjKwmAr" src="https://github.com/user-attachments/assets/48f9905f-a368-4516-8c81-e9616d267851" />
 
-## 📧 Wsparcie i wkład
 
-Jeśli znalazłeś błąd lub masz pomysł na ulepszenie:
-- Otwórz [Issue](../../issues)
-- Wyślij [Pull Request](../../pulls)
 
-Dziękuję za wsparcie! 🎵
