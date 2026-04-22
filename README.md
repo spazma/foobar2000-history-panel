@@ -51,4 +51,50 @@ Ten projekt wymaga:
 
 3. Wklej zawartość pliku `history_panel.js` do panelu
 
-4. Ustaw caption panelu, np.:
+4. Ustaw caption panelu, np.: "Playback History"
+
+5. Zapisz layout.
+
+---
+
+## 📝 Funkcje panelu
+
+### ✔ Lista ostatnich 40 utworów
+Każdy wpis zawiera timestamp:
+
+[12:41] track.mp3
+[12:45] another.flac
+
+### ✔ Statyczny blok informacji na dole panelu
+
+session played: 18
+total mins: 42
+
+
+Blok jest przyklejony do dołu panelu i nie przesuwa się.
+
+### ✔ Pełna historia w playliście
+
+Panel automatycznie tworzy playlistę:
+
+> History
+
+
+i dodaje do niej **każdy odtworzony utwór**, bez filtrów i bez usuwania duplikatów.
+
+Limit playlisty: 200 pozycji (najstarsze są usuwane).
+
+---
+
+## 📂 Pliki w repozytorium
+
+- `history_panel.js` – główny skrypt panelu SMP
+- `README.md` – dokumentacja
+- `LICENSE` – opcjonalnie MIT, jeśli chcesz udostępnić projekt open‑source
+
+---
+
+## 📜 Licencja
+
+Możesz użyć MIT, WTFPL lub dowolnej innej licencji.  
+Jeśli nie wiesz którą wybrać — MIT jest najbezpieczniejsza.
