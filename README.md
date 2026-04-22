@@ -2,13 +2,14 @@
 
 Minimalistyczny panel historii odtwarzania dla **foobar2000 + Spider Monkey Panel 1.6.1**, działający bez Media Library.
 
-> **⭐ KLUCZOWA ZALETA:** Ten panel **NIE wymaga Media Library** – w odróżnieniu od większości rozwiązań do historii, ten panel opiera się wyłącznie na zdarzeniach odtwarzania. Możesz go używać niezależnie od konfiguracji Media Library!
+> **⭐ KLUCZOWA ZALETA:** Ten panel **NIE wymaga Media Library** – w odróżnieniu od większości rozwiązań do historii, ten panel opiera się wyłącznie na zdarzeniach odtwarzania. 
+Możesz go używać niezależnie od konfiguracji Media Library!
 
 ---
 
 ## ✨ Funkcje
 
-✅ **Lista ostatnich 40 utworów** (konfigurowalne)
+✅ **Lista ostatnich utworów** (konfigurowalne)
 - Każdy wpis z timestampem `[HH:MM]`
 
 ✅ **Statystyki sesji**
