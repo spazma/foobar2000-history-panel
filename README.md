@@ -13,6 +13,7 @@ Projekt zawiera:
   - **total mins** – łączny czas odtwarzania w minutach
 - pełną historię w playliście `> History` (dodaje **wszystkie** utwory, nawet duplikaty)
 - brak klikania, brak nagłówków, czysty minimalizm
+- można ukryć i zostawić samą playliste!
 - **brak zależności od Media Library** ✅
 
 Panel jest w pełni kompatybilny z **SMP 1.6.1** i nie używa żadnych nowych API.
