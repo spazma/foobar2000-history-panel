@@ -42,7 +42,7 @@ Kompatybilny z każdą konfiguracją
 ## 📚 Wymagania
 
 - 🎶 **foobar2000** [(pobierz)](https://www.foobar2000.org/) – wersja 1.6.x lub 2.x
-- 🕷️ **[Spider Monkey Panel](https://github.com/TheQwertiest/foo_spider_monkey_panel)** v1.6.1+
+- 🕷️ **[Spider Monkey Panel](https://github.com/TheQwertiest/foo_spider_monkey_panel/releases/tag/v1.6.1)** v1.6.1+
 
 ---
 
