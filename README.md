@@ -21,7 +21,7 @@ Panel jest w pełni kompatybilny z **SMP 1.6.1** i nie używa żadnych nowych AP
 
 ## ❓ Dlaczego bez Media Library?
 
-Wszystkie panele historii dostępnych dla foobar2000 wymagają skonfigurowanej i działającej **Media Library**. Ten panel działa inaczej:
+Wszystkie panele historii dostępne dla foobara2000 wymagają skonfigurowanej i działającej **Media Library**. Ten panel działa inaczej:
 
 - ✅ Śledzi **bezpośrednio zdarzenia odtwarzania** (on_playback_new_track)
 - ✅ Nie zależy od indeksu Media Library
