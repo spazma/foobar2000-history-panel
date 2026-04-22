@@ -139,7 +139,6 @@ Projekt jest udostępniany na licencji **MIT**.
 
 - [foobar2000](https://www.foobar2000.org/) – minimalistyczny odtwarzacz audio
 - [Spider Monkey Panel](https://github.com/TheQwertiest/foo_spider_monkey_panel) – dokumentacja i pobranie komponentu
-- [foobar2000 Developer Wiki](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Scripting) – dokumentacja scripting'u
 
 ---
 <img width="1715" height="946" alt="4281foobar2000_8kqxf7pEG1" src="https://github.com/user-attachments/assets/0b773a99-5b49-4a26-b8cd-4de52dce939f" />
