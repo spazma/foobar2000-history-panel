@@ -1,6 +1,6 @@
 # foobar2000 Playback History Panel (SMP 1.6.1)
 
-Minimalistyczny panel historii odtwarzania dla **foobar2000 + Spider Monkey Panel 1.6.1**.
+Minimalistyczny panel historii odtwarzania z auto-playlistą dla **foobar2000 + Spider Monkey Panel 1.6.1**.
 
 > **⭐ KLUCZOWA ZALETA:** Ten panel **NIE wymaga Media Library** – w odróżnieniu od większości rozwiązań do historii, ten panel opiera się wyłącznie na zdarzeniach odtwarzania. Możesz go używać niezależnie od konfiguracji Media Library!
 
