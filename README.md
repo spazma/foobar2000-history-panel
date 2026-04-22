@@ -65,5 +65,6 @@ Edytuj stałe na początku pliku `history_panel.js`:
 ```javascript
 const MAX_DISPLAY = 40;           // 📊 Liczba utworów wyświetlanych w panelu
 const MAX_PLAYLIST_ITEMS = 200;   // 📋 Limit utworów w playliście > History
+```
 
 <img width="1715" height="946" alt="4281foobar2000_8kqxf7pEG1" src="https://github.com/user-attachments/assets/743179a2-ff91-4c1a-9d98-8b965532d8c5" />
