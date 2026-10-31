@@ -1,72 +1,65 @@
 # 🎵 foobar2000 Playback History Panel
 
-Minimalistyczny panel historii odtwarzania dla **foobar2000 + Spider Monkey Panel 1.6.1**, działający bez Media Library.
+<img width="1687" height="923" alt="screenshot" src="https://github.com/user-attachments/assets/b8287101-9087-4569-86fe-7df22ac5151d" />
 
-> **⭐ KLUCZOWA ZALETA:** Ten panel **NIE wymaga Media Library** – w odróżnieniu od większości rozwiązań do historii, ten panel opiera się wyłącznie na zdarzeniach odtwarzania. 
-Możesz go używać niezależnie od konfiguracji Media Library!
+A minimalist playback history panel for **foobar2000 + Spider Monkey Panel 1.6.1**, working without Media Library.
 
----
-
-## ✨ Funkcje
-
-✅ **Lista ostatnich utworów** (konfigurowalne)
-- Każdy wpis z timestampem `[HH:MM]`
-
-✅ **Statystyki sesji**
-- `session played` – ile utworów zagrano od uruchomienia
-- `total mins` – łączny czas odtwarzania w minutach
-
-✅ **Auto-playlista `> History`**
-- Pełna historia (także duplikaty)
-- Limit: 200 pozycji (konfigurowalne)
-- Najstarsze usuwane automatycznie
-
-✅ **Czysty minimalizm**
-- Brak klików, brak nagłówków
-- Lekki i szybki
-
-✅ **Niezależny od Media Library**
-- Działa z Media Library lub bez niej
-- Bazuje wyłącznie na `on_playback_new_track`
+> **⭐ KEY ADVANTAGE:** This panel **does NOT require a Media Library** – unlike most history solutions, it relies purely on playback events. 
+You can use it regardless of your Media Library configuration!
 
 ---
 
-## ❓ Dlaczego bez Media Library?
+## ✨ Features
 
-Działa od razu po instalacji
-Lżejszy i szybszy
-Niezależny od indeksu biblioteki
-Kompatybilny z każdą konfiguracją
+✅ **Recent Tracks List** (customizable)
+- Each entry with a `[HH:MM]` timestamp
+- Clickable history – just click and play :)
+
+✅ **Session Statistics**
+- `session played` – number of tracks played since startup
+- `total mins` – total playback time in minutes
+
+✅ **Auto-Playlist `> History`**
+- Full history tracking (including duplicates)
+- Limit: 200 items (customizable)
+- Oldest entries are automatically removed
+
+✅ **Media Library Independent**
+- Works with or without a Media Library
+- Based entirely on `on_playback_new_track`
 
 ---
 
-## 📚 Wymagania
+## ❓ Why Without Media Library?
 
-- 🎶 **foobar2000** [(pobierz)](https://www.foobar2000.org/) – wersja 1.6.x lub 2.x
+- Works right out of the box
+- Lighter and faster
+- Independent of library indexing
+- Compatible with any setup
+
+---
+
+## 📚 Requirements
+
+- 🎶 **foobar2000** [(download)](https://www.foobar2000.org/) – version 1.6.x or 2.x
 - 🕷️ **[Spider Monkey Panel](https://github.com/TheQwertiest/foo_spider_monkey_panel/releases/tag/v1.6.1)** v1.6.1+
 
 ---
 
-## 📦 Instalacja
+## 📦 Installation
 
-1. Utwórz nowy panel SMP
-   - Otwórz foobar2000
-   - PPM → *Configure* → *Spider Monkey Panel*
-
-2. Wklej zawartość pliku `history_panel.js`
-
-3. Zapisz layout
+1. Create a new SMP panel
+   - Open foobar2000
+   - Right-click → *Configure* → *Spider Monkey Panel*
+2. Paste the contents of `history_panel.js`
+3. Save the layout
 
 ---
 
-## ⚙️ Konfiguracja
+## ⚙️ Configuration
 
-Edytuj stałe na początku pliku `history_panel.js`:
+Edit the constants at the top of the `history_panel.js` file:
 
 ```javascript
-const MAX_DISPLAY = 40;           // 📊 Liczba utworów wyświetlanych w panelu
-const MAX_PLAYLIST_ITEMS = 200;   // 📋 Limit utworów w playliście > History
-```
-
-<img width="1687" height="923" alt="screenshot" src="https://github.com/user-attachments/assets/b8287101-9087-4569-86fe-7df22ac5151d" />
-
+const MAX_DISPLAY = 40;            // 📊 Number of tracks displayed in the panel
+const MAX_PLAYLIST_ITEMS = 200;    // 📋 Track limit in the > History playlist
