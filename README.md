@@ -1,9 +1,8 @@
 # 🎵 foobar2000 Playback History Panel
-
-<img width="1687" height="923" alt="screenshot" src="https://github.com/user-attachments/assets/b8287101-9087-4569-86fe-7df22ac5151d" />
-
 A minimalist playback history panel for **foobar2000 + Spider Monkey Panel 1.6.1**, working without Media Library.
 
+<img width="1687" height="923" alt="screenshot" src="https://github.com/user-attachments/assets/b8287101-9087-4569-86fe-7df22ac5151d" />
+    
 > **⭐ KEY ADVANTAGE:** This panel **does NOT require a Media Library** – unlike most history solutions, it relies purely on playback events. 
 You can use it regardless of your Media Library configuration!
 
